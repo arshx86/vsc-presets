@@ -1,0 +1,60 @@
+{
+    "workbench.colorCustomizations": {
+        "inlineparameters.annotationBackground": "#282A3600",
+        "inlineparameters.annotationForeground": "#7b82af",
+        "scrollbar.shadow": "#24292e00",
+        "terminal.background": "#00000000"
+    },
+    "workbench.iconTheme": "vscode-jetbrains-icon-theme-2023-dark",
+    "workbench.productIconTheme": "fluent-icons",
+    "workbench.editorLargeFileConfirmation": 10024,
+    "workbench.layoutControl.enabled": false,
+    "workbench.tree.indent": 16,
+    "workbench.startupEditor": "none",
+    "workbench.colorTheme": "GitHub Dark Default",
+    "workbench.editor.empty.hint": "hidden",
+    "breadcrumbs.enabled": false,
+    "breadcrumbs.symbolPath": "off",
+    "breadcrumbs.filePath": "on",
+    "editor.fontFamily": "'Fira Code Retina', 'Hack Nerd Font', Monospace",
+    "editor.fontSize": 16,
+    "editor.fontWeight": 450,
+    "editor.lineHeight": 26,
+    "editor.lineNumbers": "on",
+    "editor.folding": true,
+    "editor.glyphMargin": true,
+    "editor.guides.indentation": false,
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "editor.minimap.enabled": false,
+    "editor.wordWrap": "on",
+    "editor.stickyScroll.enabled": false,
+    "terminal.integrated.defaultProfile.osx": "zsh",
+    "terminal.integrated.fontFamily": "'MesloLGS NF', 'Hack Nerd Font', Monospace",
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.enableMultiLinePasteWarning": "always",
+    "terminal.integrated.cursorBlinking": true,
+    "vscode_custom_css.imports": [
+        "https://raw.githubusercontent.com/nursandiid/vscode-customizations/refs/heads/main/vscode-custom/style.css",
+        "https://raw.githubusercontent.com/nursandiid/vscode-customizations/refs/heads/main/vscode-custom/script.js"
+    ],
+    "workbench.settings.applyToAllProfiles": [
+        "workbench.colorCustomizations"
+    ],
+    "editor.cursorSmoothCaretAnimation": "on",
+    "workbench.list.smoothScrolling": true,
+    "editor.smoothScrolling": true,
+    "terminal.integrated.smoothScrolling": true,
+    "editor.cursorBlinking": "smooth",
+    "workbench.editor.openPositioning": "last",
+    "editor.formatOnSave": false,
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    }
+}
